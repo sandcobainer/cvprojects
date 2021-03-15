@@ -1,0 +1,14 @@
+name: proj3
+channels:
+- defaults
+- pytorch
+dependencies:
+- jupyter
+- matplotlib
+- pip
+- pytest
+- python=3.6
+- pytorch
+- torchvision
+- pyyaml
+- cudatoolkit=10.2

@@ -1,0 +1,19 @@
+name: proj5
+channels:
+- defaults
+- pytorch
+- conda-forge
+- sepandhaghighi
+dependencies:
+- jupyter
+- matplotlib
+- pip
+- pytest
+- python
+- pytorch
+- torchvision
+- pyyaml
+- scikit-learn
+- scipy
+- opencv
+- pycm
